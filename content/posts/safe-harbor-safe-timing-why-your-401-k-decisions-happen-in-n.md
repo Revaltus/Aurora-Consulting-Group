@@ -4,23 +4,23 @@ slug: safe-harbor-safe-timing-why-your-401-k-decisions-happen-in-n
 date: 2026-10-13
 content_type: article
 author: "Sandra L. Koch"
-excerpt: "The safe harbor 401(k) notice deadline lands around December 1. Here is what Visalia real estate investors with W-2 staff should decide in November, with real numbers."
+excerpt: "The safe harbor 401(k) notice deadline lands around December 1. Here is what Visalia business owners with W-2 staff should decide in November, with real numbers."
 image: safe-harbor-401k-november-planning.jpg
 image_alt: "A small business owner reviewing retirement plan paperwork at a desk in autumn light"
-tags: ["401(k) planning", "year-end tax planning", "real estate investors", "retirement plans"]
+tags: ["401(k) planning", "year-end tax planning", "business owners", "retirement plans"]
 meta_title: "Safe Harbor 401(k) Notice Deadline: Your November Plan"
-meta_description: "The safe harbor 401(k) notice deadline is near December 1. See what Visalia real estate investors with W-2 staff must decide in November to avoid testing."
+meta_description: "The safe harbor 401(k) notice deadline is near December 1. See what Visalia business owners with W-2 staff must decide in November to avoid testing."
 target_keyword: "safe harbor 401(k) notice deadline"
-secondary_keywords: ["safe harbor 401(k) annual notice", "safe harbor 401(k) plan design", "401(k) nondiscrimination testing", "safe harbor 401(k) small business", "safe harbor 401(k) notice deadline for Real Estate Investors"]
+secondary_keywords: ["safe harbor 401(k) annual notice", "safe harbor 401(k) plan design", "401(k) nondiscrimination testing", "safe harbor 401(k) small business", "safe harbor 401(k) notice deadline for business owners"]
 canonical_url: https://auroracgllc.com/resources/safe-harbor-safe-timing-why-your-401-k-decisions-happen-in-n
 schema_markup: "FAQPage"
-answer_block: "For calendar-year plans, the safe harbor 401(k) notice must reach eligible employees 30 to 90 days before the plan year starts, so December 1 is the practical deadline. Plans using a 3% nonelective contribution generally need no annual notice, but match and QACA designs do. Real estate investors need W-2 or self-employment income to contribute, so rental income alone does not qualify."
+answer_block: "For calendar-year plans, the safe harbor 401(k) notice must reach eligible employees 30 to 90 days before the plan year starts, so December 1 is the practical deadline. Plans using a 3% nonelective contribution generally need no annual notice, but match and QACA designs do. Business owners need W-2 or self-employment income to contribute, so passive income alone does not qualify."
 ---
-Most real estate investors in Visalia first think about a 401(k) in April, when the tax bill lands and someone says "I should have put more away." By then the design decisions are mostly closed. The safe harbor 401(k) notice deadline falls around December 1 for calendar-year plans, and that date decides whether your plan passes nondiscrimination testing automatically or whether your own contributions get cut back in the spring. If you own a management company with even one or two W-2 employees, November is when this gets decided.
+Most business owners in Visalia first think about a 401(k) in April, when the tax bill lands and someone says "I should have put more away." By then the design decisions are mostly closed. The safe harbor 401(k) notice deadline falls around December 1 for calendar-year plans, and that date decides whether your plan passes nondiscrimination testing automatically or whether your own contributions get cut back in the spring. If you own a business with even one or two W-2 employees, November is when this gets decided.
 
-This article walks through the timing rules, what a safe harbor plan costs, how it plays out for an investor with rentals in Visalia and Hanford, and what to do if you have no plan at all.
+This article walks through the timing rules, what a safe harbor plan costs, how it plays out for an owner with two employees, and what to do if you have no plan at all.
 
-## The safe harbor 401(k) notice deadline for real estate investors in Visalia
+## The safe harbor 401(k) notice deadline for Visalia business owners
 
 A safe harbor 401(k) is a plan design in which the employer makes a fixed, fully vested contribution in exchange for an exemption from the annual ADP and ACP nondiscrimination tests. The IRS describes the safe harbor option in its [401(k) plan overview](https://www.irs.gov/retirement-plans/plan-sponsor/401k-plan-overview), and its [retirement plans hub](https://www.irs.gov/retirement-plans) is the place to start for plan types and sponsor responsibilities.
 
@@ -34,17 +34,17 @@ There is also a second December date. A plan that did not begin the year as safe
 
 Who owes a notice depends on the design you choose. A matching safe harbor plan, and a QACA plan with automatic enrollment, requires an annual notice. A plan that commits to the 3% nonelective contribution generally does not require one under current law, though most sponsors send a short explanation anyway so employees understand what they are getting.
 
-## Why a 401(k) needs earned income, not just rental income
+## Why a 401(k) needs earned income
 
-This is where real estate investors differ from most other business owners. A 401(k) runs on compensation. Net rental income reported on Schedule E is generally passive income, and it does not count as pay for contribution purposes.
+A 401(k) runs on compensation. Passive income, such as investment or rental income, is generally not pay for contribution purposes. An owner who takes only distributions or passive income, with no payroll, has nothing to contribute from.
 
-That means an investor who owns 14 doors through LLCs taxed as disregarded entities, with no payroll, has nothing to contribute from. The plan only becomes available when someone earns W-2 wages or self-employment income. Three common setups work:
+The plan only becomes available when someone earns W-2 wages or self-employment income. Three common setups work:
 
-- **A property management company taxed as an S-corp** that pays the owner a reasonable W-2 salary and employs the leasing and maintenance staff.
-- **A brokerage or development entity** with W-2 pay for the owner and an assistant or project coordinator.
-- **A sole proprietor with real self-employment income**, such as fees for property management or acquisition services, who has no employees.
+- **An S-corp** that pays the owner a reasonable W-2 salary and employs a small team.
+- **A multi-owner company or practice** with W-2 pay for the owners and an assistant or project coordinator.
+- **A sole proprietor with real self-employment income**, such as consulting or service fees, who has no employees.
 
-The salary you set shapes both your contribution room and your payroll taxes, so the plan decision and the S-corp salary decision belong in the same conversation. Our [real estate investor](/industries/real-estate-investors) clients often discover that a salary set purely to minimize payroll tax leaves too little compensation to fund a meaningful deferral. Fixing that is a modeling exercise, not a guess.
+The salary you set shapes both your contribution room and your payroll taxes, so the plan decision and the S-corp salary decision belong in the same conversation. Our business owner clients often discover that a salary set purely to minimize payroll tax leaves too little compensation to fund a meaningful deferral. Fixing that is a modeling exercise, not a guess.
 
 ## What safe harbor changes about nondiscrimination testing
 
@@ -58,11 +58,11 @@ The test is unforgiving when staff do not participate. The general rule:
 | 2% to 8% | NHCE rate plus 2 points |
 | Over 8% | 1.25 times the NHCE rate |
 
-So if your leasing coordinator defers 1% and your maintenance tech defers nothing, the NHCE average is 0.5%, and you are limited to deferring about 1% of your own pay. On a $90,000 salary, that is $900 instead of the full annual limit. If you already deferred more during the year, the plan refunds the excess in the spring, and it is taxable to you.
+So if your office manager defers 1% and your operations specialist defers nothing, the NHCE average is 0.5%, and you are limited to deferring about 1% of your own pay. On a $90,000 salary, that is $900 instead of the full annual limit. If you already deferred more during the year, the plan refunds the excess in the spring, and it is taxable to you.
 
 This is the core of 401(k) nondiscrimination testing for small employers. The test punishes owners for their employees' choices, and owners rarely control those choices. Safe harbor removes the dependency. You commit to a set employer contribution, the plan is deemed to pass ADP and, for a nonelective design, ACP as well, and you can defer as much as the IRS allows.
 
-Safe harbor plans also get relief from the top-heavy rules when they only receive safe harbor contributions and deferrals. Top-heavy status is common when the owner holds most of the balances, which is exactly the shape of a small investor-owned management company.
+Safe harbor plans also get relief from the top-heavy rules when they only receive safe harbor contributions and deferrals. Top-heavy status is common when the owner holds most of the balances, which is exactly the shape of a small owner-run company.
 
 ## Safe harbor 401(k) plan design: match, nonelective, or QACA
 
@@ -79,13 +79,13 @@ A few opinions from the advisory side:
 
 - **The nonelective 3% is the cleanest for owner-heavy plans.** It costs the same whether employees participate or not, so it is a predictable line in your budget, and it removes the annual notice requirement. The owner also receives the 3% on their own pay.
 - **The match costs less when employees do not participate**, but it also gives you less certainty. If your team has a strong savings culture, a basic match can cost more than the 3% would have.
-- **QACA fits when staff turnover is high.** The two-year vesting schedule means a leasing coordinator who leaves after 14 months does not walk away with your contribution. Auto-enrollment also tends to raise participation, which costs you more under a match.
+- **QACA fits when staff turnover is high.** The two-year vesting schedule means a team member who leaves after 14 months does not walk away with your contribution. Auto-enrollment also tends to raise participation, which costs you more under a match.
 
 Whichever design you pick, it has to be in the plan document before the plan year begins, with a few narrow exceptions. Mid-year switches are limited, and that is why November matters.
 
-## A worked example with two employees and 16 units
+## A worked example with two employees
 
-Consider an investor we'll call Dan. He owns 16 rental units across Visalia and Hanford in two LLCs, plus a management company that has elected S-corp status. The management company pays Dan a W-2 salary of $90,000 and employs a leasing coordinator at $52,000 and a maintenance technician at $48,000.
+Consider a business owner we'll call Dan. He owns a Visalia company that has elected S-corp status. The company pays Dan a W-2 salary of $90,000 and employs an office manager at $52,000 and an operations specialist at $48,000.
 
 **Scenario one: a standard 401(k) with no safe harbor.** Both employees defer 1% or less. Dan's ADP is capped around 1% of pay, or $900. Anything above that is refunded or recharacterized the following spring, which wastes payroll processing time and creates a corrected W-2 problem.
 
@@ -94,8 +94,8 @@ Consider an investor we'll call Dan. He owns 16 rental units across Visalia and 
 | Participant | Pay | 3% contribution |
 |---|---|---|
 | Dan | $90,000 | $2,700 |
-| Leasing coordinator | $52,000 | $1,560 |
-| Maintenance technician | $48,000 | $1,440 |
+| Office manager | $52,000 | $1,560 |
+| Operations specialist | $48,000 | $1,440 |
 | **Total** | | **$5,700** |
 
 On top of that, Dan can defer up to the annual IRS limit from his salary (confirm the current figure each year, because it is indexed). Employer contributions are deductible by the S-corp and flow through to Dan's personal return, and they are not subject to payroll tax. Dan's own $2,700 is effectively paid to himself, so the net cost of covering the two employees is $3,000.
@@ -113,7 +113,7 @@ If you chose a design that requires the annual notice, it has to be accurate and
 5. How to make or change a deferral election, and how often employees may change it.
 6. Where to find the summary plan description and who to contact.
 
-A notice that omits one of those items can disqualify the safe harbor status for the year. Your plan administrator or recordkeeper normally supplies the template. Your job is to confirm the formula in it matches your plan document, send it on time, and keep proof of delivery. Electronic delivery works if the employees have regular computer access in their jobs, or if they have consented properly, which matters for a maintenance technician who rarely sits at a desk.
+A notice that omits one of those items can disqualify the safe harbor status for the year. Your plan administrator or recordkeeper normally supplies the template. Your job is to confirm the formula in it matches your plan document, send it on time, and keep proof of delivery. Electronic delivery works if the employees have regular computer access in their jobs, or if they have consented properly, which matters for a team member who rarely sits at a desk.
 
 ## Starting a plan from scratch before January 1
 
@@ -131,17 +131,17 @@ Aurora does not act as your plan administrator. The Enrolled Agents and CPAs on 
 
 ## When you have no employees
 
-If you are a sole investor-operator with no W-2 staff other than a spouse, the safe harbor notice question mostly disappears. A solo 401(k) covers only you and your spouse, so there is nobody to test against. You still need earned income, and the contribution limits still apply, but the plan has no nondiscrimination testing and no safe harbor notice.
+If you are a sole owner-operator with no W-2 staff other than a spouse, the safe harbor notice question mostly disappears. A solo 401(k) covers only you and your spouse, so there is nobody to test against. You still need earned income, and the contribution limits still apply, but the plan has no nondiscrimination testing and no safe harbor notice.
 
-The moment you hire a part-time leasing assistant or a full-time property manager, the analysis changes. A plan that was easy as a solo 401(k) may become a testing exposure, and you might need to convert it to a safe harbor design before the first employee becomes eligible. We often advise clients who are about to hire to do that conversion in the fall, rather than in the middle of a busy leasing season.
+The moment you hire a part-time assistant or a full-time office manager, the analysis changes. A plan that was easy as a solo 401(k) may become a testing exposure, and you might need to convert it to a safe harbor design before the first employee becomes eligible. We often advise clients who are about to hire to do that conversion in the fall, rather than in the middle of your busy season.
 
 ## Multiple entities can pull employees into the same plan
 
-Investors with several entities should be careful. If you own more than one business, such as a management company, a small construction or maintenance company, and a brokerage, the IRS may treat them as a single employer under the controlled group or affiliated service group rules. Employees of all of them can count for coverage and testing purposes, even if the plan only sits in one entity.
+Owners with several entities should be careful. If you own more than one business, the IRS may treat them as a single employer under the controlled group or affiliated service group rules. Employees of all of them can count for coverage and testing purposes, even if the plan only sits in one entity.
 
-That is one reason [multi-state and multi-entity businesses](/industries/multi-state-multi-entity-businesses) need a plan design reviewed before the notice goes out. A plan that looks cheap when it covers two employees can cost more when the other company's eleven employees turn out to be eligible too. If you hold properties outside California, the extra entities and payroll registrations make the review more important.
+That is one reason multi-state and multi-entity businesses need a plan design reviewed before the notice goes out. A plan that looks cheap when it covers two employees can cost more when the other company's eleven employees turn out to be eligible too. If you operate outside California, the extra entities and payroll registrations make the review more important.
 
-## A November checklist for real estate investors
+## A November checklist for business owners
 
 - Confirm which entity employs you and what W-2 salary you are paying.
 - List every employee, including part-timers, and note their pay and hire date.
@@ -150,7 +150,7 @@ That is one reason [multi-state and multi-entity businesses](/industries/multi-s
 - Get the plan document amended or drafted so the design is in place before January 1.
 - Send the notice by about December 1 if your design requires it, and keep proof of delivery.
 - Ask your Controller or Client Service Manager to update payroll for the new deferral and employer contribution codes.
-- Pair the plan with a year-end [tax planning review](/services/tax-planning-strategy) so you know how the deduction fits with depreciation and your other items.
+- Pair the plan with a year-end [tax planning review](/services/tax-planning-strategy) so you know how the deduction fits with your other tax items.
 
 ## Common Questions
 
@@ -158,9 +158,9 @@ That is one reason [multi-state and multi-entity businesses](/industries/multi-s
 
 For a calendar-year plan, employees should receive the safe harbor notice 30 to 90 days before the plan year begins, which means no later than early December. Most advisors treat December 1 as the working deadline. Plans using a 3% nonelective contribution generally do not require an annual notice under current rules.
 
-**Does my rental income let me contribute to a 401(k)?**
+**Does passive income let me contribute to a 401(k)?**
 
-No, not by itself. Net rental income reported on Schedule E is generally passive and does not count as compensation. You need W-2 wages, such as from an S-corp management company, or self-employment income, such as management or acquisition fees, to make or receive contributions.
+No, not by itself. Passive income, such as investment or rental income, generally does not count as compensation. You need W-2 wages, such as from your S-corp, or self-employment income to make or receive contributions.
 
 **What happens if I miss the safe harbor notice?**
 
@@ -172,4 +172,4 @@ Often yes. In a two-employee plan with a $90,000 owner salary, a 3% nonelective 
 
 ## Talk before December 1
 
-If you own rentals in Visalia, Tulare County, Kings County, or elsewhere in Central California and you pay anyone through a W-2, the plan decision is yours to make this month. [Contact Aurora Consulting Group](/contact) and we will model the nonelective, match, and QACA options against your actual payroll, check how your entities aggregate, and line up the notice timing before the deadline passes.
+If you own a business in Visalia, Tulare County, Kings County, or elsewhere in Central California and you pay anyone through a W-2, the plan decision is yours to make this month. [Contact Aurora Consulting Group](/contact) and we will model the nonelective, match, and QACA options against your actual payroll, check how your entities aggregate, and line up the notice timing before the deadline passes.
