@@ -46,7 +46,7 @@ Performance bonuses have a timing trap of their own. If a December sale or proje
 
 A pickup that hauls tools to a job site and then takes the kids to practice is a taxable fringe benefit to whoever drives it, whether that is an employee or you as an S-corp owner. The personal portion counts as wages. The [IRS Publication 15-B](https://www.irs.gov/forms-pubs/about-publication-15-b) lays out the valuation methods, including cents-per-mile and the annual lease value rule.
 
-A few thousand personal miles is enough to add a four-figure amount to someone's W-2. A mileage log kept through the year makes this a ten-minute calculation in early December. Without a log, it becomes an estimate, and estimates attract questions. If you are weighing a vehicle purchase for the business, our post on [auto leasing vs. buying](/resources/auto-leasing-vs-buying-which-makes-more-sense) covers how the choice affects deductions and cash flow.
+A few thousand personal miles is enough to add a four-figure amount to someone's W-2. A mileage log kept through the year makes this a ten-minute calculation in early December. Without a log, it becomes an estimate, and estimates attract questions.
 
 ### S-corp owner health insurance
 
@@ -118,4 +118,4 @@ Ask your provider what they can still do, and contact your CPA right away. Many 
 
 ## Get your year-end payroll changes in on time
 
-If you have a payroll notice sitting in your inbox and are not sure which of these items apply to your Visalia business, [reach out to us](/contact). We will walk through your bonuses, vehicles, and owner health insurance with you, and make sure everything is with your provider before the cutoff.
+If you have a payroll notice sitting in your inbox and are not sure which of these items apply to your business, [reach out to us](/contact). We will walk through your bonuses, vehicles, and owner health insurance with you, and make sure everything is with your provider before the cutoff.
