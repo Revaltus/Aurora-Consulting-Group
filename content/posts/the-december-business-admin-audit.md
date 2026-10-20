@@ -19,7 +19,7 @@ faq_block: [{"question":"When should I renew my business insurance in December?"
 ---
 Most business owners we talk to in Visalia can recite their revenue and margins, but ask when the umbrella policy renews or which month the second LLC owes its annual report, and the answer is a pause. That pause is where money leaks. A year-end business checklist usually leans on tax moves, and those matter. The admin side of December is quieter and just as expensive when it gets missed: a lapsed policy, a vendor agreement that renewed itself at a higher rate, a state filing that went past due while nobody was looking.
 
-December is the last low-stress window to fix all of it. Insurance agents have time to quote, vendors are open to a conversation, and nobody is yet buried in January 31 deadlines. Here is how to run the audit if you run a business in Tulare, Kings, Fresno, or Kern County.
+December is the last low-stress window to fix all of it. Insurance agents have time to quote, vendors are open to a conversation, and nobody is yet buried in January 31 deadlines. 
 
 ## Start with coverage while renewal quotes are still easy to compare
 
@@ -31,7 +31,7 @@ Then check three things.
 
 **Business interruption coverage.** If a fire or outage shuts your doors for five months, payroll, rent, and loan payments keep coming. Confirm the policy covers lost income for the time a realistic recovery would take, and ask what the waiting period is.
 
-**Exclusions that matter locally.** Standard business policies typically exclude flood and earthquake. Whether to buy separate coverage depends on the property and your cash position, but it should be a decision you made on purpose rather than a gap you found out about later. Our post on [avoiding over-insuring in the wrong places](/resources/insuring-where-it-counts-avoid-over-insuring-in-the-wrong-pl) walks through how to size coverage against net worth and cash flow.
+**Exclusions that matter locally.** Standard business policies typically exclude flood and earthquake. Whether to buy separate coverage depends on the property and your cash position, but it should be a decision you made on purpose rather than a gap you found out about later. 
 
 There is a tax angle too. Business insurance premiums are generally deductible. Cash-basis taxpayers can often deduct a premium paid in December for a 12-month policy that runs into next year, as long as the coverage doesn't stretch past the end of the following tax year. Whether that works for your return depends on your accounting method and how the policy is written, so ask before you pay, not after.
 
@@ -50,8 +50,6 @@ Make a simple list of every recurring agreement and note the term, the renewal d
 The loan line is the one investors skip most often. A balloon payment due in 14 months is a refinancing conversation to start now, while rates, lender appetite, and your income documentation are all things you can still prepare. Waiting until six months out narrows your options.
 
 On the customer side, December is a good time to look at client agreements and your own commercial lease if either expires in the first half of next year. Decide which to renew, which should move to a new rate, and which are better off going month to month. Notice periods are often strict, so confirm the terms with your attorney before sending a rate-change or non-renewal notice, since one sent late can push a change back by months.
-
-For subscription-style costs, our guide to [stopping subscription creep](/resources/take-back-control-of-subscription-creep) shows how to audit recurring charges without spending a weekend on it.
 
 ## Put license, registration, and annual report dates on one calendar
 
@@ -79,8 +77,6 @@ Two items tend to slip through the holiday weeks.
 
 **Vendor paperwork for 1099s.** If you paid a contractor $600 or more during the year for services such as repairs, consulting, or design work, you generally need to report it, and the filing deadline is January 31. December is the time to collect missing W-9 forms, not the last week of January when the vendor is hard to reach. The [IRS small business page](https://www.irs.gov/businesses/small-businesses-self-employed) has the current forms and instructions.
 
-If you also have W-2 employees or a bookkeeper on payroll, the deadlines are earlier still. See [why your payroll provider sets an early-December deadline](/resources/why-your-payroll-provider-sets-an-early-december-deadline-fo) for what to decide before the cutoff.
-
 ## A December timeline you can follow
 
 You don't need to do this in one sitting. Spread across the month, it takes a few focused hours.
@@ -94,7 +90,7 @@ You don't need to do this in one sitting. Spread across the month, it takes a fe
 | Before the holidays | Request W-9s from any vendor missing one, and decide which year-end payments should be made before December 31 |
 | Last week | Enter every license, annual report, franchise tax, and lease expiration date for the next 12 months into one shared calendar |
 
-If your books are current, this audit is easy. If they are not, start with our [year-end bookkeeping checklist](/resources/close-the-books-before-the-year-closes-the-year-end-clean-up) first, because you can't see which expenses are recurring until the ledger is reconciled.
+If your books are current, this audit is easy. 
 
 ## Why the admin side belongs in your tax plan
 
@@ -122,7 +118,7 @@ Yes, at least once a year, and December works well. Look for auto-renewal clause
 
 ## Get your calendar and your coverage in order before January
 
-If you'd like a second set of eyes on your insurance dates, entity filings, and contracts, we're happy to walk through them with you alongside your tax picture. [Reach out to our Visalia team](/contact) and we'll help you build a calendar that keeps January from surprising you.
+If you'd like a second set of eyes on your insurance dates, entity filings, and contracts, we're happy to walk through them with you alongside your tax picture. [Reach out to ](/contact)Aurora Consulting Group, and we'll help you build a calendar that keeps January from surprising you.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions
