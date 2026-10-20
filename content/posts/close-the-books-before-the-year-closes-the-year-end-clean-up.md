@@ -15,6 +15,7 @@ secondary_keywords: ["reconcile bank accounts before tax season", "separate pers
 canonical_url: https://auroracgllc.com/resources/close-the-books-before-the-year-closes-the-year-end-clean-up
 schema_markup: "FAQPage"
 answer_block: "A year-end bookkeeping checklist for business owners starts with reconciling every bank, credit card, and loan account to its December statement. Then separate personal spending, fix miscategorized transactions such as loan principal and equipment purchases, and collect W-9s. Clean books let your preparer skip the rebuild, which is what lowers your tax prep fee."
+faq_block: [{"question":"What should be on a year-end bookkeeping checklist for a business owner?","answer":"Reconcile every bank, credit card, and loan account to its December statement. Separate personal spending from business activity. Clear all uncategorized transactions, split loan payments into interest and principal, update your depreciation schedule, and collect W-9s from every vendor you paid during the year."},{"question":"Does cleaning up my books really lower tax prep fees?","answer":"Usually, yes. Preparers charge for the time it takes to sort and verify your numbers. If your accounts are reconciled and categorized, that sorting disappears. The savings are largest for owners with multiple entities, several accounts, or a year of mixed personal and business transactions."},{"question":"When should I start reconciling before tax season?","answer":"Start in October, not January. Reconcile the first nine months, then handle November and December as statements arrive. That leaves the first half of December free to review profit and make decisions that still count for the current tax year."},{"question":"Can I fix miscategorized transactions after December 31?","answer":"Yes, you can still correct the books for the year before your return is filed. What you lose is the chance to act on what you find. Deciding to pay a vendor invoice or make an estimated payment has to happen by December 31 to count."}]
 ---
 Most business owners we talk to in Visalia are not behind on their taxes. They are behind on their bookkeeping, and that is the part that quietly inflates the tax prep invoice. When a preparer opens the file in January and finds eleven months of uncategorized transactions, a loan payment coded entirely to interest, and a Venmo payment to a contractor nobody can identify, the hours go to detective work instead of tax planning.
 
@@ -137,3 +138,18 @@ Yes, you can still correct the books for the year before your return is filed. W
 ## Start your clean-up before the calendar turns
 
 If your business in Visalia, Tulare County, Kings County, or beyond has books sitting in an uncategorized pile, a short conversation now can save you weeks of scrambling in January. [Contact Aurora Consulting Group](/contact) to talk through your accounts, your entities, and what a clean year-end could look like for you.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: What should be on a year-end bookkeeping checklist for a business owner?**
+A: Reconcile every bank, credit card, and loan account to its December statement. Separate personal spending from business activity. Clear all uncategorized transactions, split loan payments into interest and principal, update your depreciation schedule, and collect W-9s from every vendor you paid during the year.
+
+**Q: Does cleaning up my books really lower tax prep fees?**
+A: Usually, yes. Preparers charge for the time it takes to sort and verify your numbers. If your accounts are reconciled and categorized, that sorting disappears. The savings are largest for owners with multiple entities, several accounts, or a year of mixed personal and business transactions.
+
+**Q: When should I start reconciling before tax season?**
+A: Start in October, not January. Reconcile the first nine months, then handle November and December as statements arrive. That leaves the first half of December free to review profit and make decisions that still count for the current tax year.
+
+**Q: Can I fix miscategorized transactions after December 31?**
+A: Yes, you can still correct the books for the year before your return is filed. What you lose is the chance to act on what you find. Deciding to pay a vendor invoice or make an estimated payment has to happen by December 31 to count.
