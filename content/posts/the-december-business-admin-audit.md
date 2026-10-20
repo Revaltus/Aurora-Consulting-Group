@@ -1,5 +1,5 @@
 ---
-title: "A year-end business admin checklist for business owners"
+title: "The December business audit"
 slug: the-december-business-admin-audit
 date: 2026-10-20
 content_type: blog
