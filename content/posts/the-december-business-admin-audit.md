@@ -15,6 +15,7 @@ secondary_keywords: ["business insurance renewal December", "renew business lice
 canonical_url: https://auroracgllc.com/resources/the-december-business-admin-audit
 schema_markup: "FAQPage"
 answer_block: "A year-end business checklist for business owners should cover insurance renewals, lease and vendor contract review, and every license, franchise tax, and annual report date for the coming year. Do it in December, while agents and vendors have time and before January deadlines such as 1099s pile up. Premiums and filing fees are generally deductible, but penalties for late filings are not."
+faq_block: [{"question":"When should I renew my business insurance in December?","answer":"Start requesting quotes four to six weeks before the renewal date, which for many December policies means early to mid November. If you are past that, begin now. Agents can still quote quickly, and you'll have time to compare coverage limits, not just the premium price."},{"question":"Are business insurance premiums and license fees tax deductible?","answer":"Generally yes. Premiums, license and registration fees, and California's LLC franchise tax are typically deductible business expenses. Penalties for late filings are not. Whether you can deduct a prepaid premium in the current year depends on your accounting method and the policy term."},{"question":"What is the annual state report deadline for a California LLC?","answer":"California LLCs pay the $800 minimum franchise tax each year, and file a Statement of Information with the Secretary of State every two years. Your own due dates depend on when the LLC was formed or last filed, so check your account with the state, and confirm out-of-state entities separately."},{"question":"Should I review vendor contracts and leases every year?","answer":"Yes, at least once a year, and December works well. Look for auto-renewal clauses, notice windows, and rate escalators. Catching a renewal 60 days early gives you room to renegotiate or switch, while catching it the week it renews usually does not."}]
 ---
 Most business owners we talk to in Visalia can recite their revenue and margins, but ask when the umbrella policy renews or which month the second LLC owes its annual report, and the answer is a pause. That pause is where money leaks. A year-end business checklist usually leans on tax moves, and those matter. The admin side of December is quieter and just as expensive when it gets missed: a lapsed policy, a vendor agreement that renewed itself at a higher rate, a state filing that went past due while nobody was looking.
 
@@ -122,3 +123,18 @@ Yes, at least once a year, and December works well. Look for auto-renewal clause
 ## Get your calendar and your coverage in order before January
 
 If you'd like a second set of eyes on your insurance dates, entity filings, and contracts, we're happy to walk through them with you alongside your tax picture. [Reach out to our Visalia team](/contact) and we'll help you build a calendar that keeps January from surprising you.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: When should I renew my business insurance in December?**
+A: Start requesting quotes four to six weeks before the renewal date, which for many December policies means early to mid November. If you are past that, begin now. Agents can still quote quickly, and you'll have time to compare coverage limits, not just the premium price.
+
+**Q: Are business insurance premiums and license fees tax deductible?**
+A: Generally yes. Premiums, license and registration fees, and California's LLC franchise tax are typically deductible business expenses. Penalties for late filings are not. Whether you can deduct a prepaid premium in the current year depends on your accounting method and the policy term.
+
+**Q: What is the annual state report deadline for a California LLC?**
+A: California LLCs pay the $800 minimum franchise tax each year, and file a Statement of Information with the Secretary of State every two years. Your own due dates depend on when the LLC was formed or last filed, so check your account with the state, and confirm out-of-state entities separately.
+
+**Q: Should I review vendor contracts and leases every year?**
+A: Yes, at least once a year, and December works well. Look for auto-renewal clauses, notice windows, and rate escalators. Catching a renewal 60 days early gives you room to renegotiate or switch, while catching it the week it renews usually does not.
