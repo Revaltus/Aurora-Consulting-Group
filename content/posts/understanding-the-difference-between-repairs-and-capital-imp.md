@@ -6,7 +6,7 @@ content_type: article
 author: "Sandra L. Koch"
 excerpt: "A roof patch is a deduction now, while a new roof is an asset you depreciate over time. Here is how business owners classify spending using the IRS tests and safe harbors."
 image: rental-property-roof-repair-visalia.jpg
-image_alt: "A contractor repairing the shingled roof of a single-family rental home on a sunny day"
+image_alt: "A contractor repairing the roof of a small business property on a sunny day"
 tags: ["Business owners", "Tangible property regulations", "Depreciation", "Tax planning"]
 meta_title: "Repairs vs Capital Improvements for Business Owners"
 meta_description: "Repairs vs capital improvements for business owners: learn the BAR tests, safe harbors, and worked examples to expense more legally this year."
@@ -49,7 +49,7 @@ Spending is a betterment if it does any of the following:
 - Materially adds to the property through enlargement, expansion, or extension.
 - Materially increases capacity, productivity, efficiency, strength, or quality.
 
-The first item catches new investors by surprise. If you buy a 1970s commercial building in Visalia with a leaking roof deck or a failing sewer lateral and fix it after closing, that is not a repair, even though the work looks like one. The defect predates you, so the cost is capitalized.
+The first item catches new building owners by surprise. If you buy a 1970s commercial building in Visalia with a leaking roof deck or a failing sewer lateral and fix it after closing, that is not a repair, even though the work looks like one. The defect predates you, so the cost is capitalized.
 
 The efficiency trigger matters when you upgrade. Swapping a handful of broken windows for matching ones is generally a repair. Replacing every window in the building with higher-grade dual-pane units, so energy performance improves materially, leans toward a betterment.
 
@@ -163,9 +163,9 @@ Repair versus improvement decisions are rarely isolated. They connect to entity 
 
 ## Common Questions
 
-**Is a new roof on a rental property a repair or a capital improvement?**
+**Is a new roof a repair or a capital improvement?**
 
-A full roof replacement is a capital improvement because it restores a major component of the building structure. You depreciate it over 27.5 years for residential rentals. A patch that fixes a leak is a repair and is deducted immediately. You may also elect a partial disposition to write off the old roof's remaining basis.
+A full roof replacement is a capital improvement because it restores a major component of the building structure. For a commercial building you own, you depreciate it over 39 years. A patch that fixes a leak is a repair and is deducted immediately. You may also elect a partial disposition to write off the old roof's remaining basis.
 
 **What is the de minimis safe harbor threshold?**
 
@@ -173,7 +173,7 @@ If you do not have audited financial statements, you can expense items costing $
 
 **Can I deduct a new HVAC system in the year I install it?**
 
-Usually not in a residential rental, because the system is part of a building depreciated over 27.5 years and does not qualify for bonus depreciation. In a nonresidential building, Section 179 may allow a first-year deduction for HVAC. If the cost is under the de minimis threshold or fits the small taxpayer safe harbor, you can expense it.
+It depends. A whole-system replacement is generally capitalized and depreciated, over 39 years for a commercial building you own. In a nonresidential building, Section 179 may allow a first-year deduction for HVAC, subject to its limits. If the cost is under the de minimis threshold or fits the small taxpayer safe harbor, you can expense it.
 
 **What if I have misclassified repairs and improvements in past years?**
 
