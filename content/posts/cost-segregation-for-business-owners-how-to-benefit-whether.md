@@ -4,19 +4,19 @@ slug: cost-segregation-for-business-owners-how-to-benefit-whether
 date: 2026-10-21
 content_type: article
 author: "Sandra L. Koch"
-excerpt: "Cost segregation is not only for building owners. Learn how leasehold improvements, qualified improvement property, and bonus depreciation can speed up deductions for tenants and Visalia real estate investors alike."
+excerpt: "Cost segregation is not only for building owners. Learn how leasehold improvements, qualified improvement property, and bonus depreciation can speed up deductions for tenants and building owners alike."
 image: visalia-commercial-building-owner-reviewing-plans.jpg
 image_alt: "A business owner reviewing floor plans and documents inside a commercial office space"
-tags: ["cost segregation", "bonus depreciation", "real estate investors", "tax planning"]
+tags: ["cost segregation", "bonus depreciation", "business owners", "tax planning"]
 meta_title: "Cost Segregation Study for Business Owners: Own or Rent"
 meta_description: "A cost segregation study for business owners can speed up deductions whether you own or lease. See how QIP, bonus depreciation, and leases work in Visalia."
 target_keyword: "cost segregation study for business owners"
-secondary_keywords: ["cost segregation for tenants leasehold improvements", "bonus depreciation cost segregation", "accelerated depreciation commercial property", "qualified improvement property depreciation", "cost segregation study for business owners for Real Estate Investors"]
+secondary_keywords: ["cost segregation for tenants leasehold improvements", "bonus depreciation cost segregation", "accelerated depreciation commercial property", "qualified improvement property depreciation", "cost segregation study for building owners"]
 canonical_url: https://auroracgllc.com/resources/cost-segregation-for-business-owners-how-to-benefit-whether
 schema_markup: "FAQPage"
 answer_block: "Yes, renters can benefit from cost segregation when they pay for their own build-out. The study classifies leasehold improvements into 5-, 7-, and 15-year property, including qualified improvement property, which can qualify for bonus depreciation or Section 179. The value depends on your income, lease terms, state conformity, passive loss limits, and a sale or exit plan, and bonus percentages change, so confirm current law with a CPA."
 ---
-Ask a Visalia dentist, a software founder with a leased office, or an engineering firm owner about cost segregation, and you will usually hear the same answer: that's for people who own buildings. It is a reasonable guess. It is also wrong often enough to cost real money. Tenants who pay for their own build-outs can often speed up their deductions, and investors who own the building can do the same on their side of the lease. The difference between getting this right and missing it comes down to a few classification rules, a handful of dates, and what your lease says about who pays for what.
+Ask most business owners about cost segregation, and you will usually hear the same answer: that's for people who own buildings. It is a reasonable guess. It is also wrong often enough to cost real money. Tenants who pay for their own build-outs can often speed up their deductions, and investors who own the building can do the same on their side of the lease. The difference between getting this right and missing it comes down to a few classification rules, a handful of dates, and what your lease says about who pays for what.
 
 This guide walks through how a cost segregation study works, how it applies to owners and renters, where it breaks down, and how to decide whether the fee is worth it. Tax rules and bonus depreciation percentages change, so treat the numbers here as a framework and confirm current law before you act.
 
@@ -37,7 +37,7 @@ The study does not create new deductions. It moves the same total deduction into
 
 ## What it looks like for a Visalia building owner
 
-Here is a simple scenario for a real estate investor. Say you buy a 12,000-square-foot medical and professional office building near Mooney Boulevard for $2.4 million. The land is worth $400,000, so the depreciable basis is $2.0 million. On a straight-line 39-year schedule, that is roughly $51,000 of depreciation a year.
+Here is a simple scenario for a building owner. Say you buy a 12,000-square-foot commercial office building in Visalia for $2.4 million. The land is worth $400,000, so the depreciable basis is $2.0 million. On a straight-line 39-year schedule, that is roughly $51,000 of depreciation a year.
 
 Now suppose an engineering study reclassifies 22 percent of the depreciable basis, or $440,000. Of that, $120,000 lands in 5- and 7-year property, and $320,000 lands in 15-year land improvements such as the parking lot, lighting, and site work.
 
@@ -51,7 +51,7 @@ Owners who bought years ago are not shut out. A study done on a building already
 
 The assumption that tenants cannot use cost segregation rests on a true fact: you cannot depreciate a building you do not own. But tenants who pay for improvements own the cost of those improvements for tax purposes, and those costs are depreciable by the tenant.
 
-Consider a Visalia consulting firm or medical practice that leases 4,000 square feet in a building it does not own, and spends $320,000 on a build-out. A careful breakdown of the contractor's costs might look like this:
+Consider a Visalia business that leases 4,000 square feet in a building it does not own, and spends $320,000 on a build-out. A careful breakdown of the contractor's costs might look like this:
 
 - **$85,000** in 5- and 7-year property: furniture, specialty cabinetry, dedicated electrical and data cabling, built-in equipment.
 - **$205,000** in qualified improvement property: interior walls, ceilings, flooring, standard lighting, and interior finishes.
@@ -73,7 +73,7 @@ So which do you use, bonus or Section 179? A few distinctions help:
 2. **Bonus depreciation is not limited by income.** It can create or increase a net operating loss.
 3. **State rules differ.** California treats these two very differently, which matters for anyone filing in Tulare, Kings, Fresno, or Kern County.
 
-Self-employed professionals and consultants who run an S-corp or LLC often have to plan between the two, because the loss limitations on their personal return affect the answer. If your build-out is large relative to your profit, a deduction you cannot use this year is not much of a benefit.
+Business owners who run an S-corp or LLC often have to plan between the two, because the loss limitations on their personal return affect the answer. If your build-out is large relative to your profit, a deduction you cannot use this year is not much of a benefit.
 
 ## How bonus depreciation timing changes the math
 
@@ -105,13 +105,13 @@ Under a triple-net lease, tenants often pay for property taxes, insurance, and m
 
 ## When you own the building and run the business in it
 
-Many Aurora clients have two sides to the same problem. An investor owns the building in one LLC, and an operating company (a medical practice, a contractor, a software business) rents space from it. That raises a sequence of structural questions:
+Many Aurora clients have two sides to the same problem. An owner holds the building in one LLC, and an operating company rents space from it. That raises a sequence of structural questions:
 
 - Which entity pays for the build-out, and which entity owns it for tax purposes?
 - Is rent set at a market rate and documented in a written lease?
 - Does the intercompany balance get tracked, or does it quietly turn into a mess at year-end?
 
-A build-out paid for by the operating company can be depreciated there, and a build-out paid for by the landlord entity can be depreciated there. Neither is automatically better. The right answer depends on which entity can use the deduction, which has passive-loss issues, and how state taxes apply. For clients with several entities or properties across states, this is where [multi-state and multi-entity planning](/industries/multi-state-multi-entity-businesses) stops being a theoretical topic.
+A build-out paid for by the operating company can be depreciated there, and a build-out paid for by the landlord entity can be depreciated there. Neither is automatically better. The right answer depends on which entity can use the deduction, which has passive-loss issues, and how state taxes apply. For clients with several entities or properties across states, this is where multi-state and multi-entity planning stops being a theoretical topic.
 
 ## Passive loss and material participation limits
 
@@ -171,7 +171,7 @@ A cost segregation decision touches at least four things: the lease, the purchas
 
 At Aurora, the Client CFO on your Team of 3 models the after-tax value of a study against your actual income and exit plans. The Client Controller keeps the fixed-asset schedule clean, including the separate California schedule. The Client Service Manager keeps contractor invoices, lease documents, and engineer deliverables moving through secure digital workflows. Our Enrolled Agents, who hold IRS representation authority, stand behind the filing position if questions come up later. Fixed monthly pricing and no annual contract mean you can bring this in at the moment it matters, such as before you sign a lease or close on a property, without negotiating a separate engagement. We coordinate with independent engineering firms who perform the studies themselves.
 
-For investors, this connects to broader depreciation tracking and entity structure work on our [real estate investor](/industries/real-estate-investors) page. For operating business owners, it sits inside year-round [tax planning and strategy](/services/tax-planning-strategy), alongside quarterly estimates, retirement contributions, and entity elections. The [IRS Small Business and Self-Employed Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed) is also a useful reference for current guidance on depreciation and business deductions.
+For business owners, this sits inside year-round [tax planning and strategy](/services/tax-planning-strategy), alongside depreciation tracking, entity structure, quarterly estimates, retirement contributions, and entity elections. The [IRS Small Business and Self-Employed Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed) is also a useful reference for current guidance on depreciation and business deductions.
 
 ## Common Questions
 
