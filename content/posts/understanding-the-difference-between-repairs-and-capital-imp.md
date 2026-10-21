@@ -15,6 +15,7 @@ secondary_keywords: ["capitalize vs expense", "tangible property regulations", "
 canonical_url: https://auroracgllc.com/resources/understanding-the-difference-between-repairs-and-capital-imp
 schema_markup: "FAQPage"
 answer_block: "A repair keeps business property in ordinary working condition and is deducted in the year paid. A capital improvement is a betterment, adaptation, or restoration, such as replacing a roof or an entire HVAC system, and is depreciated over time, generally 39 years for a commercial building you own. The de minimis, routine maintenance, and small taxpayer safe harbors can let you expense many borderline costs."
+faq_block: [{"question":"Is a new roof a repair or a capital improvement?","answer":"A full roof replacement is a capital improvement because it restores a major component of the building structure. For a commercial building you own, you depreciate it over 39 years. A patch that fixes a leak is a repair and is deducted immediately. You may also elect a partial disposition to write off the old roof's remaining basis."},{"question":"What is the de minimis safe harbor threshold?","answer":"If you do not have audited financial statements, you can expense items costing $2,500 or less per invoice or per item. The threshold is $5,000 with audited statements. You must make the election each year with a statement attached to your timely filed original return, and your books must treat the amounts as expenses."},{"question":"Can I deduct a new HVAC system in the year I install it?","answer":"It depends. A whole-system replacement is generally capitalized and depreciated, over 39 years for a commercial building you own. In a nonresidential building, Section 179 may allow a first-year deduction for HVAC, subject to its limits. If the cost is under the de minimis threshold or fits the small taxpayer safe harbor, you can expense it."},{"question":"What if I have misclassified repairs and improvements in past years?","answer":"You generally do not need to amend every return. An automatic accounting method change on Form 3115 corrects the treatment going forward and lets you claim any catch-up deduction in the year of the change. Having a CPA or Enrolled Agent review your fixed asset schedule first shows how large the adjustment is."}]
 ---
 It is July in Visalia, and the air conditioner at your office is blowing warm air. Two weeks and $9,800 later you have a new system, and a question waiting for you in April: is that a deduction this year, or something you write off slowly over 39 years? The answer changes your tax bill by thousands of dollars, and the IRS tangible property regulations do not make it obvious. Most business owners we meet are making these calls one invoice at a time, usually after the work is done, and usually by gut feel.
 
@@ -179,3 +180,18 @@ Usually not in a residential rental, because the system is part of a building de
 You generally do not need to amend every return. An automatic accounting method change on Form 3115 corrects the treatment going forward and lets you claim any catch-up deduction in the year of the change. Having a CPA or Enrolled Agent review your fixed asset schedule first shows how large the adjustment is.
 
 If you run a business in Visalia, Tulare County, Kings County, or anywhere in Central California and you are not sure how your last few invoices were classified, [reach out to our team](/contact). We will review your fixed asset schedule and safe harbor elections with you, and tell you plainly what we find.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: Is a new roof a repair or a capital improvement?**
+A: A full roof replacement is a capital improvement because it restores a major component of the building structure. For a commercial building you own, you depreciate it over 39 years. A patch that fixes a leak is a repair and is deducted immediately. You may also elect a partial disposition to write off the old roof's remaining basis.
+
+**Q: What is the de minimis safe harbor threshold?**
+A: If you do not have audited financial statements, you can expense items costing $2,500 or less per invoice or per item. The threshold is $5,000 with audited statements. You must make the election each year with a statement attached to your timely filed original return, and your books must treat the amounts as expenses.
+
+**Q: Can I deduct a new HVAC system in the year I install it?**
+A: It depends. A whole-system replacement is generally capitalized and depreciated, over 39 years for a commercial building you own. In a nonresidential building, Section 179 may allow a first-year deduction for HVAC, subject to its limits. If the cost is under the de minimis threshold or fits the small taxpayer safe harbor, you can expense it.
+
+**Q: What if I have misclassified repairs and improvements in past years?**
+A: You generally do not need to amend every return. An automatic accounting method change on Form 3115 corrects the treatment going forward and lets you claim any catch-up deduction in the year of the change. Having a CPA or Enrolled Agent review your fixed asset schedule first shows how large the adjustment is.
