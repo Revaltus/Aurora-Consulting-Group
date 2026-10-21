@@ -15,6 +15,7 @@ secondary_keywords: ["cost segregation for tenants leasehold improvements", "bon
 canonical_url: https://auroracgllc.com/resources/cost-segregation-for-business-owners-how-to-benefit-whether
 schema_markup: "FAQPage"
 answer_block: "Yes, renters can benefit from cost segregation when they pay for their own build-out. The study classifies leasehold improvements into 5-, 7-, and 15-year property, including qualified improvement property, which can qualify for bonus depreciation or Section 179. The value depends on your income, lease terms, state conformity, passive loss limits, and a sale or exit plan, and bonus percentages change, so confirm current law with a CPA."
+faq_block: [{"question":"Can a tenant do a cost segregation study?","answer":"Yes, if the tenant paid for the improvements. The study classifies the build-out costs into 5-, 7-, and 15-year property, much of which qualifies for bonus depreciation. Tenants cannot depreciate the building shell. For smaller build-outs, itemized invoices and a CPA's analysis may capture most of the benefit without a formal engineering study."},{"question":"Is qualified improvement property eligible for bonus depreciation?","answer":"Yes. Qualified improvement property is a 15-year asset made to the interior of an existing nonresidential building, and it qualifies for bonus depreciation. It excludes enlargements, elevators and escalators, and internal structural framework. The bonus percentage depends on when the property was acquired and placed in service, so confirm the current rate before planning."},{"question":"Does cost segregation create a tax problem when I sell?","answer":"It can. Depreciation taken on 5- and 7-year components is recaptured as ordinary income up to the amount claimed, and real property depreciation can be taxed at up to 25 percent. A 1031 exchange or a long hold can defer or reduce that cost, so model the exit before you commit to a study."},{"question":"Do I have to own my building to benefit from cost segregation?","answer":"No. Owners can reclassify parts of a purchase or construction cost into faster recovery periods, and tenants who pay for their own build-out can often do the same with those improvements. Your lease, income, and plans for the space determine how much it is worth, so a CPA should review the details first."}]
 ---
 Ask most business owners about cost segregation, and you will usually hear the same answer: that's for people who own buildings. It is a reasonable guess. It is also wrong often enough to cost real money. Tenants who pay for their own build-outs can often speed up their deductions, and investors who own the building can do the same on their side of the lease. The difference between getting this right and missing it comes down to a few classification rules, a handful of dates, and what your lease says about who pays for what.
 
@@ -188,3 +189,18 @@ Yes. Qualified improvement property is a 15-year asset made to the interior of a
 It can. Depreciation taken on 5- and 7-year components is recaptured as ordinary income up to the amount claimed, and real property depreciation can be taxed at up to 25 percent. A 1031 exchange or a long hold can defer or reduce that cost, so model the exit before you commit to a study.
 
 If you own a building in Visalia, lease space in Tulare, Kings, Fresno, or Kern County, or are about to sign a lease with a build-out attached, the best time to run the numbers is before the contractor starts. [Reach out to Aurora Consulting Group](/contact) and we will look at your lease, your entities, and your income, then tell you plainly whether a cost segregation study is worth the fee.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: Can a tenant do a cost segregation study?**
+A: Yes, if the tenant paid for the improvements. The study classifies the build-out costs into 5-, 7-, and 15-year property, much of which qualifies for bonus depreciation. Tenants cannot depreciate the building shell. For smaller build-outs, itemized invoices and a CPA's analysis may capture most of the benefit without a formal engineering study.
+
+**Q: Is qualified improvement property eligible for bonus depreciation?**
+A: Yes. Qualified improvement property is a 15-year asset made to the interior of an existing nonresidential building, and it qualifies for bonus depreciation. It excludes enlargements, elevators and escalators, and internal structural framework. The bonus percentage depends on when the property was acquired and placed in service, so confirm the current rate before planning.
+
+**Q: Does cost segregation create a tax problem when I sell?**
+A: It can. Depreciation taken on 5- and 7-year components is recaptured as ordinary income up to the amount claimed, and real property depreciation can be taxed at up to 25 percent. A 1031 exchange or a long hold can defer or reduce that cost, so model the exit before you commit to a study.
+
+**Q: Do I have to own my building to benefit from cost segregation?**
+A: No. Owners can reclassify parts of a purchase or construction cost into faster recovery periods, and tenants who pay for their own build-out can often do the same with those improvements. Your lease, income, and plans for the space determine how much it is worth, so a CPA should review the details first.
