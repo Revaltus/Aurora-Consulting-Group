@@ -1,7 +1,7 @@
 ---
 title: "Repairs vs capital improvements: how business owners decide what to deduct now"
 slug: understanding-the-difference-between-repairs-and-capital-imp
-date: 2026-10-21
+date: 2027-01-01
 content_type: article
 author: "Sandra L. Koch"
 excerpt: "A roof patch is a deduction now, while a new roof is an asset you depreciate over time. Here is how business owners classify spending using the IRS tests and safe harbors."
