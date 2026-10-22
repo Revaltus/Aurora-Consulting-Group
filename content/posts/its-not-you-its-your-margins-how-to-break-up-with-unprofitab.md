@@ -1,5 +1,5 @@
 ---
-title: "A Valentine's Margin Check: How to Fire Unprofitable Customers and Renegotiate Vendor Contracts"
+title: "It's Not Me, It's You: How to end bad client and vendor relationships"
 slug: its-not-you-its-your-margins-how-to-break-up-with-unprofitab
 date: 2026-10-22
 content_type: blog
