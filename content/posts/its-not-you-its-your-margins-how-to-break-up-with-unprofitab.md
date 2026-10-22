@@ -15,6 +15,7 @@ secondary_keywords: ["renegotiate vendor contracts", "customer profitability ana
 canonical_url: https://auroracgllc.com/resources/its-not-you-its-your-margins-how-to-break-up-with-unprofitab
 schema_markup: "FAQPage"
 answer_block: "To fire an unprofitable customer, first calculate what each one costs you after uncollected revenue, rework, and your own time. Then try new terms, and if the margin still falls below your written threshold, exit with proper notice. Do the same for vendors: review notice windows, get competing bids, and terminate when savings outweigh the early termination fee."
+faq_block: [{"question":"How do I fire an unprofitable customer without burning a bridge?","answer":"Start with a conversation about changed terms, such as a rate increase or tighter payment rules. If that fails, give written notice that follows your contract and applicable law, offer a clear timeline, and stay factual. Have an attorney review any termination notice first."},{"question":"Can I deduct unpaid invoices as a bad debt?","answer":"Generally no, if your business reports income on the cash basis. Revenue you never received was never income, so there is nothing to write off. Accrual-basis businesses follow different rules, which is why your accounting method matters before you plan around a loss."},{"question":"How often should I renegotiate vendor contracts?","answer":"Review each one at least 90 days before its renewal date, and run a full bid comparison every two to three years. A calendar reminder tied to the notice window protects you from silent auto-renewals."}]
 ---
 Every so often, it is worth looking hard at your relationships. Your client list and vendor roster deserve the same look. Picture a business owner in Visalia with nine active clients who feels busy, tired, and oddly short on cash even though the calendar is full. The problem is rarely the whole book of business. It is usually two or three clients and four or five vendor contracts quietly eating the margin the others earn.
 
@@ -127,3 +128,15 @@ Review each one at least 90 days before its renewal date, and run a full bid com
 ## Start with one honest look at the numbers
 
 If you suspect a client or a contract is costing you more than it earns, we can build the per-client profitability picture and review your vendor list with you. Our Team of 3, a Client Service Manager, Client Controller, and Client CFO, works on fixed monthly pricing with no annual contract, so you get the analysis without a surprise bill. [Reach out through our contact page](/contact) and we will set up a time to walk through your numbers.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: How do I fire an unprofitable customer without burning a bridge?**
+A: Start with a conversation about changed terms, such as a rate increase or tighter payment rules. If that fails, give written notice that follows your contract and applicable law, offer a clear timeline, and stay factual. Have an attorney review any termination notice first.
+
+**Q: Can I deduct unpaid invoices as a bad debt?**
+A: Generally no, if your business reports income on the cash basis. Revenue you never received was never income, so there is nothing to write off. Accrual-basis businesses follow different rules, which is why your accounting method matters before you plan around a loss.
+
+**Q: How often should I renegotiate vendor contracts?**
+A: Review each one at least 90 days before its renewal date, and run a full bid comparison every two to three years. A calendar reminder tied to the notice window protects you from silent auto-renewals.
