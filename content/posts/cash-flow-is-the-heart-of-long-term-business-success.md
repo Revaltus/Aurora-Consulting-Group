@@ -15,6 +15,7 @@ secondary_keywords: ["cash flow problems", "improve business cash flow", "cash f
 canonical_url: https://auroracgllc.com/resources/cash-flow-is-the-heart-of-long-term-business-success
 schema_markup: "FAQPage"
 answer_block: "Profit shows how your business looks on paper, while cash determines whether you can make payroll, pay the loan, and cover the tax bill. Map where cash enters and leaves the business, watch for blockages such as slow-paying customers, seasonal dips, capital purchases, and tax bills, and review monthly, with a 13-week forecast and a quarterly tax projection."
+faq_block: [{"question":"What is a 13-week cash flow forecast?","answer":"It is a week-by-week projection of every deposit and payment over the next quarter, including customer payments, payroll, tax deposits, insurance renewals, and planned purchases. The goal is to find the lowest balance in the period, so you can fix a shortfall before it happens."},{"question":"Can a business show a profit and still run short on cash?","answer":"Yes. Loan principal, equipment purchases, estimated tax payments, and slow-paying customers drain cash without appearing as expenses on your income statement. The reverse also happens: depreciation reduces taxable income without any cash leaving your account, so a business can show a smaller profit on paper while the bank balance grows."},{"question":"How often should a business owner review cash flow?","answer":"Review actuals monthly, update the 13-week forecast at the same time, and run a tax projection before each quarterly estimate date. Add a review whenever you hire, buy major equipment, take on new debt, or expand into another state. Waiting for the annual tax return means you learn about problems 12 months too late."}]
 ---
 A business owner in Visalia with a full calendar of clients can post a tidy year on paper and still be moving money between accounts to cover payroll or a quarterly tax payment. Nothing is wrong with the business. The customers are happy, the work keeps coming, and the books show a profit. The trouble is timing. Profit is how the year looks in a spreadsheet. Cash is what is in the checking account on the day a bill comes due.
 
@@ -126,3 +127,15 @@ Yes. Depreciation reduces taxable income without any cash leaving your account, 
 Review actuals monthly, update the 13-week forecast at the same time, and run a tax projection before each quarterly estimate date. Add a review whenever you buy, sell, refinance, or hit a loan reset. Waiting for the annual tax return means you learn about problems 12 months too late.
 
 If you own a business in Visalia, Tulare County, or beyond and want a cash forecast that reflects how your business actually runs, [contact Aurora Consulting Group](/contact) and we will start with a conversation about your customers, your lenders, and the next three months on your calendar.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: What is a 13-week cash flow forecast?**
+A: It is a week-by-week projection of every deposit and payment over the next quarter, including customer payments, payroll, tax deposits, insurance renewals, and planned purchases. The goal is to find the lowest balance in the period, so you can fix a shortfall before it happens.
+
+**Q: Can a business show a profit and still run short on cash?**
+A: Yes. Loan principal, equipment purchases, estimated tax payments, and slow-paying customers drain cash without appearing as expenses on your income statement. The reverse also happens: depreciation reduces taxable income without any cash leaving your account, so a business can show a smaller profit on paper while the bank balance grows.
+
+**Q: How often should a business owner review cash flow?**
+A: Review actuals monthly, update the 13-week forecast at the same time, and run a tax projection before each quarterly estimate date. Add a review whenever you hire, buy major equipment, take on new debt, or expand into another state. Waiting for the annual tax return means you learn about problems 12 months too late.
